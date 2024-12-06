@@ -1,0 +1,29 @@
+Clean the Kitchen
+Description: Wash dishes, wipe countertops, and mop the floor.
+
+Schedule Doctor’s Appointment
+Description: Call the clinic and book a routine check-up.
+
+Pay Utility Bills
+Description: Settle electricity, water, and internet bills online.
+
+Walk the Dog
+Description: Take a 30-minute walk around the park with the dog.
+
+Update Resume
+Description: Add recent projects and update job experiences.
+
+Practice Coding Challenges
+Description: Solve three problems on LeetCode or HackerRank.
+
+Prepare Lunch for Tomorrow
+Description: Cook a healthy meal and pack it for the next day.
+
+Organize Workspace
+Description: Arrange desk items, tidy up cables, and clear clutter.
+
+Watch a Coding Tutorial
+Description: Spend 20 minutes learning a new React feature and try to apply it practically.
+
+Meditate for 10 Minutes
+Description: Practice mindfulness meditation to relax and refocus guided by the bookmarked youtube channels.
